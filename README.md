@@ -1,4 +1,5 @@
-# awesome-saas
+# Awesome SaaS ![Awesome](https://awesome.re/badge.svg)
+A collection of awesome things related to SaaS
 
 ## Sharding and partitioning data
 * [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
