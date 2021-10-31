@@ -4,6 +4,9 @@ A collection of awesome things related to SaaS
 ## Authorization
 * [Enhancing Amazon DynamoDB single-table design with AWS AppSync access and security features](https://aws.amazon.com/blogs/mobile/enhancing-dynamodb-single-table-design-with-appsync-access-and-security-features/)
 
+## Hybrid architecture
+* [Build a Hybrid Architecture for Local Compliance and Global Scalability](https://aws.amazon.com/blogs/startups/build-a-hybrid-architecture-for-local-compliance-and-global-scalability/)
+
 ## Live migration
 * [Changing the Wheels on a Moving Bus — Spotify’s Event Delivery Migration](https://engineering.atspotify.com/2021/10/20/changing-the-wheels-on-a-moving-bus-spotify-event-delivery-migration/)
 
