@@ -14,6 +14,9 @@ A collection of awesome things related to SaaS
 ## Live migration
 * [Changing the Wheels on a Moving Bus — Spotify’s Event Delivery Migration](https://engineering.atspotify.com/2021/10/20/changing-the-wheels-on-a-moving-bus-spotify-event-delivery-migration/)
 
+## Multi-region architecture and disaster recovery
+* [Ten tips for multi-tenant, multi-Region object replication in Amazon S3](https://aws.amazon.com/blogs/storage/ten-tips-for-multi-tenant-multi-region-object-replication-in-amazon-s3/)
+
 ## Networking
 * [Building the Next Evolution of Cloud Networks at Slack – A Retrospective](https://slack.engineering/building-the-next-evolution-of-cloud-networks-at-slack-a-retrospective/)
 
