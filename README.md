@@ -27,6 +27,9 @@ A collection of awesome things related to SaaS
 ## Networking
 * Slack - [Building the Next Evolution of Cloud Networks at Slack – A Retrospective](https://slack.engineering/building-the-next-evolution-of-cloud-networks-at-slack-a-retrospective/)
 
+## Product-market fit
+* McKinsey - [Managing growth and value creation in SaaS: An interview with a software leader](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/managing-growth-and-value-creation-in-saas)
+
 ## Sharding and partitioning data
 * AWS - [Improve performance and manageability of large PostgreSQL tables by migrating to partitioned tables on Amazon Aurora and Amazon RDS](https://aws.amazon.com/blogs/database/improve-performance-and-manageability-of-large-postgresql-tables-by-migrating-to-partitioned-tables-on-amazon-aurora-and-amazon-rds/)
 * Notion - [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
