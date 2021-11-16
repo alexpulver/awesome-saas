@@ -9,6 +9,7 @@ A collection of awesome things related to SaaS
 * AWS - [SaaS Cost Attribution: How to Align Technology with Business](https://aws.amazon.com/blogs/apn/saas-cost-attribution-how-to-align-technology-with-business/)
 
 ## Data isolation
+* AWS - [Implementing SaaS Tenant Isolation Using Amazon SageMaker Endpoints and IAM](https://aws.amazon.com/blogs/apn/implementing-saas-tenant-isolation-using-amazon-sagemaker-endpoints-and-iam/)
 * Kolide - [A Rails Multi-Tenant Strategy That's ~30 Lines and "Just Works"](https://dev.to/kolide/a-rails-multi-tenant-strategy-thats-30-lines-and-just-works-58cd)
 
 ## CI/CD
