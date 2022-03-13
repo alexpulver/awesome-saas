@@ -18,6 +18,9 @@ A collection of awesome things related to SaaS
 * AWS - [Implementing SaaS Tenant Isolation Using Amazon SageMaker Endpoints and IAM](https://aws.amazon.com/blogs/apn/implementing-saas-tenant-isolation-using-amazon-sagemaker-endpoints-and-iam/)
 * Kolide - [A Rails Multi-Tenant Strategy That's ~30 Lines and "Just Works"](https://dev.to/kolide/a-rails-multi-tenant-strategy-thats-30-lines-and-just-works-58cd)
 
+## Frontend
+* Capital One - [How Capital One Builds Micro-Frontends At Scale](https://www.capitalone.com/tech/software-engineering/loosely-coupled-micro-frontends-with-nodejs/)
+
 ## Hybrid architecture
 * AWS - [Build a Hybrid Architecture for Local Compliance and Global Scalability](https://aws.amazon.com/blogs/startups/build-a-hybrid-architecture-for-local-compliance-and-global-scalability/)
 
