@@ -38,6 +38,7 @@ A collection of awesome things related to SaaS
 * Spotify - [Changing the Wheels on a Moving Bus — Spotify’s Event Delivery Migration](https://engineering.atspotify.com/2021/10/20/changing-the-wheels-on-a-moving-bus-spotify-event-delivery-migration/)
 
 ## Multi-region architecture and disaster recovery
+* AWS - [Implement Multi-Region Serverless (and Functionless) WebSocket Pub/Sub APIs with AWS AppSync and Amazon EventBridge](https://aws.amazon.com/blogs/mobile/multi-region-websocket-api/)
 * AWS - [Ten tips for multi-tenant, multi-Region object replication in Amazon S3](https://aws.amazon.com/blogs/storage/ten-tips-for-multi-tenant-multi-region-object-replication-in-amazon-s3/)
 
 ## Networking
