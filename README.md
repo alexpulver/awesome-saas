@@ -45,6 +45,8 @@ A collection of awesome things related to SaaS
 * Slack - [Building the Next Evolution of Cloud Networks at Slack – A Retrospective](https://slack.engineering/building-the-next-evolution-of-cloud-networks-at-slack-a-retrospective/)
 
 ## Product-market fit
+
+* McKinsey - [Box’s Aaron Levie on navigating SaaS’ several stages of growth](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/boxs-aaron-levie-on-navigating-saas-several-stages-of-growth)
 * McKinsey - [Managing growth and value creation in SaaS: An interview with a software leader](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/managing-growth-and-value-creation-in-saas)
 
 ## Reliability
