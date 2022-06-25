@@ -66,4 +66,5 @@ A collection of awesome things related to SaaS
 * Shopify - [E-Commerce at Scale: Inside Shopify's Tech Stack - Stackshare.io](https://shopify.engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
 
 ## Shipping
+* 37signals - [HEY Bubble Up: From kickoff to launch](https://updates.basecamp.com/post/hey-bubble-up)
 * 37signals - [Seven Shipping Principles](https://37signals.com/seven-shipping-principles)
