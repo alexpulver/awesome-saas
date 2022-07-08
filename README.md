@@ -7,6 +7,7 @@ A collection of awesome things related to SaaS
 * IETF - [JSON Web Token (JWT) Profile for OAuth 2.0 Access Tokens](https://datatracker.ietf.org/doc/html/rfc9068)
 
 ## Business and technology alignment
+* Leonid Belkind - [♨ Strategies for investment in 🔩 Tech Debt vs 💸 Product Debt when building new 📦 software products](https://medium.com/stackpulse/strategies-for-investment-in-tech-debt-vs-product-debt-when-building-new-software-428de5680070)
 * AWS - [SaaS Cost Attribution: How to Align Technology with Business](https://aws.amazon.com/blogs/apn/saas-cost-attribution-how-to-align-technology-with-business/)
 * Holly Cummins - [Why I Never Want to Build Another MVP](https://www.digit.fyi/comment-why-i-never-want-to-build-another-mvp/)
 
