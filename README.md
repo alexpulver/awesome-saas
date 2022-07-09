@@ -36,6 +36,9 @@ A collection of awesome things related to SaaS
 ## Internet of Things (IoT)
 * BISSELL - [How BISSELL migrated a million vacuum devices to a scalable IoT Platform on AWS](https://aws.amazon.com/blogs/iot/how-bissell-migrated-a-million-vacuum-devices-to-a-scalable-iot-platform-on-aws/)
 
+## Learning from failures
+* 37signals - [Accounting for the Basecamp 3 outage on June 27, 2022](https://updates.basecamp.com/post/accounting-for-the-basecamp-3-outage-on-june-27-2022)
+
 ## Live migration
 * Spotify - [Changing the Wheels on a Moving Bus — Spotify’s Event Delivery Migration](https://engineering.atspotify.com/2021/10/20/changing-the-wheels-on-a-moving-bus-spotify-event-delivery-migration/)
 
