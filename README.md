@@ -16,6 +16,9 @@ A collection of awesome things related to SaaS
 * McKinsey - [SaaS and the Rule of 40: Keys to the critical value creation metric](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/saas-and-the-rule-of-40-keys-to-the-critical-value-creation-metric)
 * AirTree - [B2B SaaS benchmarks: What metrics do VCs look at for signs of product-market fit?](https://www.airtree.vc/open-source-vc/b2b-saas-benchmarks-what-metrics-do-vcs-looking-at-for-signs-of-product-market-fit)
 
+## Concepts
+* Microsoft Azure - [Architect multitenant solutions on Azure](https://docs.microsoft.com/en-us/azure/architecture/guide/multitenant/overview)
+
 ## Continuous Integration/Continuous Deployment (CI/CD)
 * AWS - [Parallel and dynamic SaaS deployments with AWS CDK Pipelines](https://aws.amazon.com/blogs/devops/parallel-and-dynamic-saas-deployments-with-cdk-pipelines/)
 
