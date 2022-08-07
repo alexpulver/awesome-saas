@@ -71,6 +71,7 @@ A collection of awesome things related to SaaS
 * Slack - [Scaling Datastores at Slack with Vitess](https://slack.engineering/scaling-datastores-at-slack-with-vitess/)
 * AWS - [Improve performance and manageability of large PostgreSQL tables by migrating to partitioned tables on Amazon Aurora and Amazon RDS](https://aws.amazon.com/blogs/database/improve-performance-and-manageability-of-large-postgresql-tables-by-migrating-to-partitioned-tables-on-amazon-aurora-and-amazon-rds/)
 * GitHub - [Partitioning GitHub’s relational databases to handle scale](https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/)
+* GitLab - Decomposing the GitLab backend database: [Part 1: Designing and planning](https://about.gitlab.com/blog/2022/08/04/path-to-decomposing-gitlab-database-part1/), [Part 2: Final migration and results](https://about.gitlab.com/blog/2022/08/04/path-to-decomposing-gitlab-database-part2/), [Part 3: Challenges and surprises](https://about.gitlab.com/blog/2022/08/04/path-to-decomposing-gitlab-database-part3/)
 * Notion - [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
 * Shopify - [E-Commerce at Scale: Inside Shopify's Tech Stack - Stackshare.io](https://shopify.engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
 
