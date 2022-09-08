@@ -17,6 +17,8 @@ A collection of awesome things related to SaaS
 * AirTree - [B2B SaaS benchmarks: What metrics do VCs look at for signs of product-market fit?](https://www.airtree.vc/open-source-vc/b2b-saas-benchmarks-what-metrics-do-vcs-looking-at-for-signs-of-product-market-fit)
 
 ## Concepts
+* AWS - [SaaS Architecture Fundamentals](https://docs.aws.amazon.com/whitepapers/latest/saas-architecture-fundamentals/saas-architecture-fundamentals.html)
+* AWS - [SaaS Lens for the AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/saas-lens/saas-lens.html)
 * Microsoft Azure - [Architect multitenant solutions on Azure](https://docs.microsoft.com/en-us/azure/architecture/guide/multitenant/overview)
 
 ## Continuous Integration/Continuous Deployment (CI/CD)
