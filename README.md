@@ -2,6 +2,7 @@
 A collection of awesome things related to SaaS
 
 ## Authentication and authorization
+* Frontegg - [How to Persist JWT Tokens for Your SaaS Application](https://frontegg.com/blog/how-to-persist-jwt-tokens-for-your-saas-application)
 * Netflix - [Edge Authentication and Token-Agnostic Identity Propagation](https://netflixtechblog.com/edge-authentication-and-token-agnostic-identity-propagation-514e47e0b602)
 * AWS - [Introducing Amazon DocumentDB (with MongoDB compatibility) user-defined roles for access control](https://aws.amazon.com/blogs/database/introducing-amazon-documentdb-with-mongodb-compatibility-user-defined-roles-for-access-control/)
 * AWS - [Enhancing Amazon DynamoDB single-table design with AWS AppSync access and security features](https://aws.amazon.com/blogs/mobile/enhancing-dynamodb-single-table-design-with-appsync-access-and-security-features/)
