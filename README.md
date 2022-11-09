@@ -2,6 +2,7 @@
 A collection of awesome things related to SaaS
 
 ## Authentication and authorization
+* Styra - [Entitlements: Architecting Authorization](https://www.styra.com/blog/entitlements-architecting-authorization/)
 * Frontegg - [How to Persist JWT Tokens for Your SaaS Application](https://frontegg.com/blog/how-to-persist-jwt-tokens-for-your-saas-application)
 * Netflix - [Edge Authentication and Token-Agnostic Identity Propagation](https://netflixtechblog.com/edge-authentication-and-token-agnostic-identity-propagation-514e47e0b602)
 * AWS - [Introducing Amazon DocumentDB (with MongoDB compatibility) user-defined roles for access control](https://aws.amazon.com/blogs/database/introducing-amazon-documentdb-with-mongodb-compatibility-user-defined-roles-for-access-control/)
