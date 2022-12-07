@@ -2,6 +2,7 @@
 A collection of awesome things related to SaaS
 
 ## Authentication and authorization
+* Auth0 - [On The Nature of OAuth2’s Scopes](https://auth0.com/blog/on-the-nature-of-oauth2-scopes/)
 * Styra - [Entitlements: Architecting Authorization](https://www.styra.com/blog/entitlements-architecting-authorization/)
 * Frontegg - [How to Persist JWT Tokens for Your SaaS Application](https://frontegg.com/blog/how-to-persist-jwt-tokens-for-your-saas-application)
 * Netflix - [Edge Authentication and Token-Agnostic Identity Propagation](https://netflixtechblog.com/edge-authentication-and-token-agnostic-identity-propagation-514e47e0b602)
