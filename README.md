@@ -84,3 +84,7 @@ A collection of awesome things related to SaaS
 ## Shipping
 * 37signals - [HEY Bubble Up: From kickoff to launch](https://updates.basecamp.com/post/hey-bubble-up)
 * 37signals - [Seven Shipping Principles](https://37signals.com/seven-shipping-principles)
+
+## Tenant costs
+* AWS - [Calculating Tenant Costs in SaaS Environments](https://aws.amazon.com/blogs/apn/calculating-tenant-costs-in-saas-environments/)
+* AWS - [Calculating SaaS Cost Per Tenant: A PoC Implementation in an AWS Kubernetes Environment](https://aws.amazon.com/blogs/apn/calculating-saas-cost-per-tenant-a-poc-implementation-in-an-aws-kubernetes-environment/)
