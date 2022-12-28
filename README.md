@@ -8,6 +8,7 @@ A collection of awesome things related to SaaS
 * Holly Cummins - [Why I Never Want to Build Another MVP](https://www.digit.fyi/comment-why-i-never-want-to-build-another-mvp/)
 
 ## Business metrics
+* Janelle Teng - [Product metrics that matter the most: A flywheel framework for cloud business leaders](https://nextbigteng.substack.com/p/product-metrics-that-matter-the-most)
 * McKinsey - [SaaS and the Rule of 40: Keys to the critical value creation metric](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/saas-and-the-rule-of-40-keys-to-the-critical-value-creation-metric)
 * AirTree - [B2B SaaS benchmarks: What metrics do VCs look at for signs of product-market fit?](https://www.airtree.vc/open-source-vc/b2b-saas-benchmarks-what-metrics-do-vcs-looking-at-for-signs-of-product-market-fit)
 
