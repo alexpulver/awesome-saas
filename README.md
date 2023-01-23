@@ -25,6 +25,9 @@ A collection of awesome things related to SaaS
 * AWS - [Implementing SaaS Tenant Isolation Using Amazon SageMaker Endpoints and IAM](https://aws.amazon.com/blogs/apn/implementing-saas-tenant-isolation-using-amazon-sagemaker-endpoints-and-iam/)
 * Kolide - [A Rails Multi-Tenant Strategy That's ~30 Lines and "Just Works"](https://dev.to/kolide/a-rails-multi-tenant-strategy-thats-30-lines-and-just-works-58cd)
 
+## Extensibility
+* Bill Tarr - Supporting extensibility in SaaS environments ([video](https://www.youtube.com/watch?v=uzRrEWzqD0Y), [slides](https://d1.awsstatic.com/events/Summits/reinvent2022/SAS302_Supporting-extensibility-in-SaaS-environments.pdf))
+
 ## Machine learning
 * AWS - [How to scale machine learning inference for multi-tenant SaaS use cases](https://aws.amazon.com/blogs/machine-learning/how-to-scale-machine-learning-inference-for-multi-tenant-saas-use-cases/)
 
